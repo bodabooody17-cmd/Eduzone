@@ -1,0 +1,8 @@
+{
+  "name": "Remix منصة EduZone التعليمية | EduZone",
+  "description": "منصة EduZone التعليمية الشاملة لملخصات الثانوية العامة ودبلوم التجارة والكورسات المجانية مع نماذج امتحانات وشروحات تفاعلية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

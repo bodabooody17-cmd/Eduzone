@@ -1,11 +1,35 @@
-<div align="center">
+# منصة EduZone التعليميه 🎓
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+منصة تعليمية متكاملة لطلاب الثانوية العامة (علمي وأدبي)، دبلوم التجارة والتعليم الفني، الكورسات المعتمدة، وبنك الأسئلة الشامل (735+ سؤال) مع نظام نقاط ومستويات الطلاب.
 
-  <h1>Built with AI Studio</h2>
+## 🚀 طريقة الرفع على Vercel (في دقيقة واحدة):
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+### الطريقة الأولى: عبر لوحة تحكم Vercel (مباشرة)
+1. قم بفك ضغط ملف `eduzone-vercel-project.zip`.
+2. ارفع مجلد المشروع على حسابك في **GitHub**.
+3. افتح موقع [Vercel](https://vercel.com/) واضغط على **Add New Project**.
+4. اختر المستودع الخاص بك واضغط **Deploy**.
+5. سيتعرف Vercel تلقائياً على إعدادات Vite وملف `vercel.json` وسيعمل المشروع فوراً!
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+### الطريقة الثانية: عبر Vercel CLI (سطر الأوامر)
+```bash
+npm install -g vercel
+vercel login
+vercel --prod
+```
 
-</div>
+## 💻 التشغيل المحلي (Local Development):
+```bash
+# تثبيت الاعتماديات
+npm install
+
+# تشغيل خادم التطوير
+npm run dev
+
+# بناء نسخة الإنتاج
+npm run build
+```
+
+---
+تصميم وتطوير: **Eng . Abdullah**
+منصة **EduZone التعليميه** 2026 / 2027
